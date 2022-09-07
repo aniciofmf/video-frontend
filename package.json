@@ -1,0 +1,23 @@
+{
+  "name": "iVideo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth-next": "5.0.0-1613647907.37b1156",
+    "@nuxtjs/axios": "^5.12.5",
+    "@stripe/stripe-js": "^1.13.1",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.8.3",
+    "filepond": "^4.25.2",
+    "filepond-plugin-file-validate-type": "^1.2.5",
+    "filesize": "^6.1.0",
+    "nuxt": "^2.14.12"
+  },
+  "devDependencies": {}
+}
